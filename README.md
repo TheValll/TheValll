@@ -4,7 +4,7 @@
 <br />
 <br />
 
-Hello! 👋 My name is Valentin MASSONNIÈRE, and I am passionate about technology and video games 🎮💻. Currently pursuing a *Bachelor's degree in Application Design and Development*, I am completing my journey as an apprentice at Adloox/Scope3, where I work on back-end development with Python 🐍.
+Hello! 👋 My name is Valentin MASSONNIÈRE, and I am passionate about technology and video games 🎮💻. Currently pursuing a *Bachelor's degree in Application Design and Development*, I am completing my journey as an apprentice at Adloox/Scope3, where I work on back-end development with Python 🐍. I'm a web developpement hater 🤡.
 
 In the long term, I aspire to pursue a *Master’s degree in Embedded Systems*, a field that deeply fascinates me, particularly in industries such as aerospace, aviation, and robotics 🚀.
 
