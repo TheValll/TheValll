@@ -13,22 +13,25 @@ In the long term, I aspire to pursue a *Master’s degree in Embedded Systems*, 
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="ASM" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/assembly.png" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="JetBrain" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+<img align="left" alt="ASM" width="40px" style="padding-right:10px;" src="https://drive.google.com/file/d/1JDCw6-BNIzb-hQpDDd6BmXrzT9zBwVai/view?usp=sharing" />
+<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" />
+<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" />
+<img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" />
+<img align="left" alt="Raspberrypi" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/RaspberryPi-Dark.svg" />
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg"/>
+<img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" />
+<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" />
+<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" />
+<img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" />
+<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" />
+<img align="left" alt="VS Code" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" />
+<img align="left" alt="CLion" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CLion-Dark.svg" />
+<img align="left" alt="GitLab" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg" />
+<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" />
 <br />
+<br />
+
 
 ---
 
