@@ -12,18 +12,17 @@ These aspirations merge my deep interest in IT 🖥️ with the fascinating fiel
 ---
 
 ### 🧰 Languages and Tools
-
-<img align="left" alt="Python" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" />
-<img align="left" alt="Raspberrypi" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/RaspberryPi-Dark.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/gcp.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg"/>
+<img align="left" alt="Python" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
 <img align="left" alt="React" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" />
+<img align="left" alt="GCP" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" />
 <img align="left" alt="Docker" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" />
+<img align="left" alt="Git" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" />
 <img align="left" alt="VS Code" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" />
+<img align="left" alt="Linux" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" />
+<img align="left" alt="Raspberry Pi" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/RaspberryPi-Dark.svg" />
 <br />
 <br />
 
