@@ -1,12 +1,12 @@
 # ✈️ Valentin Massonnière (TheVal)
 
-**`Full Stack Developer (Currently interning at Adloox/Scope3)`**
+AI & Data Engineering Student ✨ (Currently interning at Adloox/Scope3)`**
 <br />
 <br />
 
-Hello! 👋 My name is Valentin MASSONNIÈRE, and I am passionate about technology and video games 🎮💻. Currently pursuing a *Bachelor's degree in Application Design and Development*, I am completing my journey as an apprentice at Adloox/Scope3, where I work on back-end development with Python 🐍. I'm a web developpement hater 🤡.
+I'm currently registered at Efrei Paris for the upcoming academic year, specializing in Data Engineering & AI 📊. I'm on the hunt for an apprenticeship opportunity 💼 that will allow me to significantly develop my programming skills 🧑‍💻 and discover exciting possibilities for my future endeavors ✨.
 
-In the long term, I aspire to pursue a *Master’s degree in Embedded Systems*, a field that deeply fascinates me, particularly in industries such as aerospace, aviation, and robotics 🚀.
+These aspirations merge my deep interest in IT 🖥️ with the fascinating fields of aerospace and aeronautics 🛰️. My strong passion lies in computer science and artificial intelligence, and my ultimate aim is to become a highly skilled engineer in the big data and AI domains. 📈
 
 
 ---
@@ -14,10 +14,7 @@ In the long term, I aspire to pursue a *Master’s degree in Embedded Systems*, 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-<img align="left" alt="ASM" width="40px" style="padding-right:0px;" src="./svg-gobbler.png" />
-<img align="left" alt="C" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" />
-<img align="left" alt="Arduino" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" />
 <img align="left" alt="Raspberrypi" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/RaspberryPi-Dark.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg"/>
 <img align="left" alt="React" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" />
