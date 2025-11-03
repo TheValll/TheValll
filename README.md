@@ -1,12 +1,14 @@
 # ✈️ Valentin Massonnière (TheVal)
 
-AI & Data Engineering Student ✨ (Currently interning at Adloox/Scope3)`**
+AI & Data Engineering Student ✨ (Currently interning at ...)`**
 <br />
 <br />
 
 I'm currently registered at Efrei Paris for the upcoming academic year, specializing in Data Engineering & AI 📊. I'm on the hunt for an apprenticeship opportunity 💼 that will allow me to significantly develop my programming skills 🧑‍💻 and discover exciting possibilities for my future endeavors ✨.
 
 These aspirations merge my deep interest in IT 🖥️ with the fascinating fields of aerospace and aeronautics 🛰️. My strong passion lies in computer science and artificial intelligence, and my ultimate aim is to become a highly skilled engineer in the big data and AI domains. 📈
+
+I would like to continue my studies in robotics and AI PhD in the space field.🎓
 
 
 ---
@@ -31,5 +33,6 @@ These aspirations merge my deep interest in IT 🖥️ with the fascinating fiel
 
 ### 📂 Notable Projects
 
+- [**DeepSight-Nebula**](https://github.com/TheValll/DeepSight-Nebula): 🤖 DeepSight Nebula is a Robotic & AI project :).
 - [**Ollama AI Chat Interface**](https://github.com/TheValll/Ollama-AI-Chat-Interface): 🧠 A web interface for chatting with AI using various models compatible with the Ollama API.
 - [**KeyOverlay App**](https://github.com/TheValll/KeyOverlay): 🎮 A basic *Elden Ring* KeyOverlay designed for OBS.
