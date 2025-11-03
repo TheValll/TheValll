@@ -1,6 +1,6 @@
 # ✈️ Valentin Massonnière (TheVal)
 
-AI & Data Engineering Student ✨ (Currently interning at ...)`**
+AI & Data Engineering Student ✨ (Currently interning at ...)**
 <br />
 <br />
 
