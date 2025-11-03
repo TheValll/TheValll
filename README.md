@@ -15,9 +15,10 @@ I would like to continue my studies in robotics and AI PhD in the space field.ğŸ
 
 ### ğŸ§° Languages and Tools
 <img align="left" alt="C++" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg"/>
+<img align="left" alt="C++" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ros.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/arduino.svg" />
 <img align="left" alt="GCP" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" />
 <img align="left" alt="Docker" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" />
