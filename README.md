@@ -4,11 +4,11 @@ AI & Data Engineering Student ✨ (Currently interning at ...)
 <br />
 <br />
 
-I'm currently registered at Efrei Paris for the upcoming academic year, specializing in Data Engineering & AI 📊. I'm on the hunt for an apprenticeship opportunity 💼 that will allow me to significantly develop my programming skills 🧑‍💻 and discover exciting possibilities for my future endeavors ✨.
+I'm currently registered at Efrei Paris specializing in Data Engineering & AI 📊. I'm in apprenticeship at IceBerg Data Lab such as AI Engineer or Data Scientist ✨.
 
 These aspirations merge my deep interest in IT 🖥️ with the fascinating fields of aerospace and aeronautics 🛰️. My strong passion lies in computer science and artificial intelligence, and my ultimate aim is to become a highly skilled engineer in the big data and AI domains. 📈
 
-I would like to continue my studies in robotics and AI PhD in the space field.🎓
+I would like to continue my studies in Robotics and AI PhD in the space field.🎓
 
 
 ---
