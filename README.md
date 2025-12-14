@@ -4,7 +4,7 @@ AI - Robotic Engineer & Data Scientist ✨ working at IceBergData Lab 🔬
 <br />
 <br />
 
-I'm currently registered at Efrei Paris specializing in Data Engineering & AI 📊. I'm in apprenticeship at IceBerg Data Lab such as AI Engineer or Data Scientist ✨.
+I'm currently registered at Efrei Paris specializing in Data Engineering & AI 📊. I'm in apprenticeship at IceBerg Data Lab such as AI Engineer and Data Scientist ✨.
 
 These aspirations merge my deep interest in IT 🖥️ with the fascinating fields of aerospace and aeronautics 🛰️. My strong passion lies in computer science and artificial intelligence, and my ultimate aim is to become a highly skilled engineer in the big data and AI domains.
 
