@@ -1,6 +1,6 @@
 # ✈️ Valentin Massonnière (TheVal)
 
-AI & Data Engineering Student ✨ (Currently interning at ...)
+AI - Robotic Engineer & Data Scientist ✨ working at IceBergData Lab 🔬
 <br />
 <br />
 
