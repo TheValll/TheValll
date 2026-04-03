@@ -36,4 +36,22 @@ Long-term goal: a **PhD in Robotics & AI** in the space domain.
 
 ---
 
+### 🎓 Certifications
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/SYU61L1L3KZB">
+        <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SYU61L1L3KZB/CERTIFICATE_LANDING_PAGE~SYU61L1L3KZB.jpeg" width="180" alt="Mathematics for Machine Learning and Data Science" />
+        <br />
+        <sub><b>Mathematics for Machine Learning & Data Science</b></sub>
+        <br />
+        <sub>DeepLearning.AI — Coursera · Dec 2025</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <p align="center"><i>Building at the intersection of robots, data, and space.</i></p>
