@@ -1,39 +1,50 @@
-# ✈️ Valentin Massonnière (TheVal)
+<div align="center">
 
-AI - Robotic Engineer & Data Scientist ✨ working at IceBergData Lab 🔬
-<br />
-<br />
+# Valentin Massonnière — *TheVal*
 
-I'm currently registered at Efrei Paris specializing in Data Engineering & AI 📊. I'm in apprenticeship at IceBerg Data Lab such & AI Engineer and Data Scientist ✨.
+**AI · Robotics · Data**
 
-These aspirations merge my deep interest in IT 🖥️ with the fascinating fields of aerospace and aeronautics 🛰️. My strong passion lies in computer science and artificial intelligence, and my ultimate aim is to become a highly skilled engineer in the big data and AI domains.
+AI & Data Science apprentice at **IceBerg Data Lab** — studying Data Engineering & AI at **Efrei Paris**.
 
-I would like to continue my studies in Robotics and AI PhD in the space field.🎓
+Driven by robotics, artificial intelligence, and aerospace.  
+Long-term goal: a **PhD in Robotics & AI** in the space domain. 🛰️
 
-
----
-
-### 🧰 Languages and Tools
-<img align="left" alt="C++" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" />
-<img align="left" alt="C++" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ROS-Dark.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
-<img align="left" alt="GCP" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" />
-<img align="left" alt="Docker" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" />
-<img align="left" alt="VS Code" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" />
-<img align="left" alt="Bash" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" />
-<img align="left" alt="Raspberry Pi" width="40px" style="padding-right:0px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/RaspberryPi-Dark.svg" />
-<br />
-<br />
-
+</div>
 
 ---
 
-### 📂 Notable Projects
+### Stack
 
-- [**DeepSight-Nebula**](https://github.com/TheValll/DeepSight-Nebula): 🤖 DeepSight Nebula is a Robotic & AI project :).
-- [**Ollama AI Chat Interface**](https://github.com/TheValll/Ollama-AI-Chat-Interface): 🧠 A web interface for chatting with AI using various models compatible with the Ollama API.
-- [**KeyOverlay App**](https://github.com/TheValll/KeyOverlay): 🎮 A basic *Elden Ring* KeyOverlay designed for OBS.
+<div align="left">
+
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" width="36" title="C++" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" width="36" title="C / Arduino" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="36" title="Python" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rust_logo_2021.svg" width="36" title="Rust" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ROS-Dark.svg" width="36" title="ROS 2" />
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="36" title="Docker" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" width="36" title="Kubernetes" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="36" title="Linux" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NeoVim-Dark.svg" width="36" title="Neovim" />
+<img src="https://raw.githubusercontent.com/TheValll/TheValll/main/icons/math.svg" width="36" title="Mathematics" />
+
+</div>
+
+---
+
+### Projects
+
+| Project | Description |
+|---------|-------------|
+| [**DeepSight-Nebula**](https://github.com/TheValll/DeepSight-Nebula) | R&D project in Robotics & AI — foundation of my research toward a PhD in the space domain. |
+| [**RocketLeague SoundBoard Plugin**](https://github.com/TheValll/RocketLeague_SoundBoard_BakkesModPlugin) | First-ever BakkesMod plugin enabling fully custom soundboards with dynamic in-game events. The crossbar event concept is original. |
+| [**osu! Custom Key Overlay**](https://github.com/TheValll/osu_custom_key_overlay) | Customizable key overlay for osu!, built for OBS streaming. |
+| [**ROS 2 Template**](https://github.com/TheValll/ros2) | Clean and reusable ROS 2 project template to kickstart robotics development. |
+
+---
+
+<div align="center">
+
+*Building at the intersection of robots, data, and space.*
+
+</div>
