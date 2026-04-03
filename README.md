@@ -20,13 +20,13 @@ Long-term goal: a **PhD in Robotics & AI** in the space domain. 🛰️
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" width="36" title="C++" />
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" width="36" title="C / Arduino" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="36" title="Python" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rust_logo_2021.svg" width="36" title="Rust" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="36" title="Rust" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ROS-Dark.svg" width="36" title="ROS 2" />
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="36" title="Docker" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" width="36" title="Kubernetes" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="36" title="Linux" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NeoVim-Dark.svg" width="36" title="Neovim" />
-<img src="https://raw.githubusercontent.com/TheValll/TheValll/main/icons/math.svg" width="36" title="Mathematics" />
+<img src="https://raw.githubusercontent.com/TheValll/TheValll/main/math.svg" width="36" title="Mathematics" />
 
 </div>
 
