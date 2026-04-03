@@ -1,9 +1,7 @@
-# Hi there, I'm Valentin Massonnière — *TheVal* 👋
+# Hi, I'm Valentin Massonnière — *TheVal* 👋
 
 🛰️ **AI & Robotics Engineer** | **Data Scientist** · Apprentice at **IceBerg Data Lab**  
 🎓 **Efrei Paris** — Data Engineering & AI  
-
-*Robotics · Artificial Intelligence · Aerospace · Space*
 
 Passionate about building intelligent systems at the edge of robotics and AI.  
 Long-term goal: a **PhD in Robotics & AI** in the space domain.
@@ -75,13 +73,9 @@ Long-term goal: a **PhD in Robotics & AI** in the space domain.
 
 ### 📂 Notable Projects
 
-- [**DeepSight-Nebula**](https://github.com/TheValll/DeepSight-Nebula) — 🤖 R&D project in Robotics & AI, foundation of my research toward a PhD in the space domain.
+- [**DeepSight-Nebula**](https://github.com/TheValll/DeepSight-Nebula) — 🤖 R&D project in Robotics & AI, foundation of my research toward a PhD in robotics ans AI.
 - [**RocketLeague SoundBoard Plugin**](https://github.com/TheValll/RocketLeague_SoundBoard_BakkesModPlugin) — 🎮 First-ever BakkesMod plugin enabling fully custom soundboards with dynamic in-game events. The crossbar event concept is original.
 - [**osu! Custom Key Overlay**](https://github.com/TheValll/osu_custom_key_overlay) — 🎵 Customizable key overlay for osu!, built for OBS streaming.
 - [**ROS 2 Template**](https://github.com/TheValll/ros2) — 🦾 Clean and reusable ROS 2 project template to kickstart robotics development.
 
 <br />
-
----
-
-<p align="center"><i>Building at the intersection of robots, data, and space.</i></p>
