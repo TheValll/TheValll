@@ -1,48 +1,29 @@
-<div align="center">
+# Hi there, I'm Valentin Massonnière — *TheVal* 👋
 
-# Valentin Massonnière — *TheVal*
+🛰️ **AI & Robotics Engineer** | **Data Scientist** · Apprentice at **IceBerg Data Lab**  
+🎓 **Efrei Paris** — Data Engineering & AI  
 
-**AI · Robotics · Data**
+*Robotics · Artificial Intelligence · Aerospace · Space*
 
-AI & Data Science apprentice at **IceBerg Data Lab** — studying Data Engineering & AI at **Efrei Paris**.
-
-Driven by robotics, artificial intelligence, and aerospace.  
-Long-term goal: a **PhD in Robotics & AI** in the space domain. 🛰️
-
-</div>
+Passionate about building intelligent systems at the edge of robotics and AI.  
+Long-term goal: a **PhD in Robotics & AI** in the space domain.
 
 ---
 
 ### 🧰 Languages & Tools
 
-**Languages**
-
-<img align="left" alt="C++" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" />
-<img align="left" alt="C / Arduino" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" />
-<img align="left" alt="Rust" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" />
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-<img align="left" alt="Matlab" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matlab-Dark.svg" />
-<br clear="left" />
-<br />
-
-**Robotics & Systems**
-
-<img align="left" alt="ROS 2" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ROS-Dark.svg" />
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
-<img align="left" alt="Raspberry Pi" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/RaspberryPi-Dark.svg" />
-<img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" />
-<br clear="left" />
-<br />
-
-**DevOps & Tools**
-
-<img align="left" alt="Docker" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" />
-<img align="left" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" />
-<img align="left" alt="Git" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" />
-<img align="left" alt="Neovim" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NeoVim-Dark.svg" />
-<img align="left" alt="VS Code" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" />
-<br clear="left" />
-<br />
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matlab-Dark.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ROS-Dark.svg" width="48" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NeoVim-Dark.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="48" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" width="48" />
+</p>
 
 ---
 
@@ -55,8 +36,4 @@ Long-term goal: a **PhD in Robotics & AI** in the space domain. 🛰️
 
 ---
 
-<div align="center">
-
-*Building at the intersection of robots, data, and space.*
-
-</div>
+<p align="center"><i>Building at the intersection of robots, data, and space.</i></p>
