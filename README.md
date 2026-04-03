@@ -1,4 +1,4 @@
-**# Hi there, I'm Valentin Massonnière — *TheVal* 👋
+# Hi there, I'm Valentin Massonnière — *TheVal* 👋
 
 🛰️ **AI & Robotics Engineer** | **Data Scientist** · Apprentice at **IceBerg Data Lab**  
 🎓 **Efrei Paris** — Data Engineering & AI  
@@ -41,7 +41,6 @@ Long-term goal: a **PhD in Robotics & AI** in the space domain.
 ### 🎓 Certifications
 
 **Mathematics for Machine Learning & Data Science** · *DeepLearning.AI*
-
 <a href="https://www.coursera.org/account/accomplishments/specialization/SYU61L1L3KZB">
   <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SYU61L1L3KZB/CERTIFICATE_LANDING_PAGE~SYU61L1L3KZB.jpeg" height="100" alt="Mathematics for Machine Learning and Data Science" />
 </a>
@@ -86,4 +85,4 @@ Long-term goal: a **PhD in Robotics & AI** in the space domain.
 
 ---
 
-<p align="center"><i>Building at the intersection of robots, data, and space.</i></p>**
+<p align="center"><i>Building at the intersection of robots, data, and space.</i></p>
