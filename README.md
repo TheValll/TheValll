@@ -40,36 +40,35 @@ Long-term goal: a **PhD in Robotics & AI** in the space domain.
 
 ### 🎓 Certifications
 
-**Mathematics for Machine Learning & Data Science** · *DeepLearning.AI*
-<a href="https://www.coursera.org/account/accomplishments/specialization/SYU61L1L3KZB">
-  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SYU61L1L3KZB/CERTIFICATE_LANDING_PAGE~SYU61L1L3KZB.jpeg" height="100" alt="Mathematics for Machine Learning and Data Science" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <sub><b>Mathematics for Machine Learning & Data Science</b> · DeepLearning.AI</sub><br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/SYU61L1L3KZB">
+        <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SYU61L1L3KZB/CERTIFICATE_LANDING_PAGE~SYU61L1L3KZB.jpeg" height="80" />
+      </a>
+    </td>
+    <td align="center">
+      <sub><b>ROS 2 for Beginners (ROS Jazzy - 2026)</b> · Udemy</sub><br/>
+      <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-758261d8-f0a2-4005-8e62-c9fae85d4f61.jpg?v=1771330617000">
+        <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-758261d8-f0a2-4005-8e62-c9fae85d4f61.jpg?v=1771330617000" height="80" />
+      </a>
+    </td>
+    <td align="center">
+      <sub><b>ROS 2 for Beginners Level 2 — TF | URDF | RViz | Gazebo</b> · Udemy</sub><br/>
+      <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-55631397-13ea-40ca-be50-6b57f4c43f47.jpg?v=1772281119000">
+        <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-55631397-13ea-40ca-be50-6b57f4c43f47.jpg?v=1772281119000" height="80" />
+      </a>
+    </td>
+    <td align="center">
+      <sub><b>ROS 2 — Hardware and ros2_control, Step by Step</b> · Udemy</sub><br/>
+      <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-7ba1abde-1719-4dbf-9dae-15543060cf87.jpg?v=1775150592000">
+        <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-7ba1abde-1719-4dbf-9dae-15543060cf87.jpg?v=1775150592000" height="80" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br />
-
-**ROS 2 for Beginners (ROS Jazzy - 2026)** · *Udemy*
-
-<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-758261d8-f0a2-4005-8e62-c9fae85d4f61.jpg?v=1771330617000">
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-758261d8-f0a2-4005-8e62-c9fae85d4f61.jpg?v=1771330617000" height="100" alt="ROS 2 for Beginners" />
-</a>
-
-<br />
-
-**ROS 2 for Beginners Level 2 — TF | URDF | RViz | Gazebo** · *Udemy*
-
-<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-55631397-13ea-40ca-be50-6b57f4c43f47.jpg?v=1772281119000">
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-55631397-13ea-40ca-be50-6b57f4c43f47.jpg?v=1772281119000" height="100" alt="ROS 2 for Beginners Level 2" />
-</a>
-
-<br />
-
-**ROS 2 — Hardware and ros2_control, Step by Step** · *Udemy*
-
-<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-7ba1abde-1719-4dbf-9dae-15543060cf87.jpg?v=1775150592000">
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-7ba1abde-1719-4dbf-9dae-15543060cf87.jpg?v=1775150592000" height="100" alt="ROS 2 Hardware and ros2_control" />
-</a>
-
-<br />
 <br />
 
 ---
