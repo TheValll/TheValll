@@ -6,8 +6,6 @@
 Passionate about building intelligent systems at the edge of robotics and AI.  
 Long-term goal: a **PhD in Robotics & AI** in the space domain.
 
-<br />
-
 ---
 
 ### 🧰 Languages & Tools
