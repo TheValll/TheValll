@@ -41,8 +41,7 @@
       <td align="center">
         <sub><b>Mathematics for Machine Learning & Data Science</b> · DeepLearning.AI</sub><br/>
         <a href="https://www.coursera.org/account/accomplishments/specialization/SYU61L1L3KZB">
-          <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_
-  LANDING_PAGE~SYU61L1L3KZB/CERTIFICATE_LANDING_PAGE~SYU61L1L3KZB.jpeg" height="80" />
+          <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SYU61L1L3KZB/CERTIFICATE_LANDING_PAGE~SYU61L1L3KZB.jpeg" height="80" />
         </a>
       </td>
       <td align="center">
