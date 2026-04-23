@@ -11,9 +11,9 @@
   ### Languages & Tools
 
   <p align="left">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" width="48" />
+   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="48" />
     &nbsp;
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="48" />
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" width="48" />
     &nbsp;
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" />
     &nbsp;
@@ -29,7 +29,6 @@
     &nbsp;
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="48" />
     &nbsp;
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" width="48" />
   </p>
 
   ---
