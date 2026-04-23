@@ -62,6 +62,12 @@ Long-term goal: a **PhD in Robotics & AI** in the space domain.
         <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-7ba1abde-1719-4dbf-9dae-15543060cf87.jpg?v=1775150592000" height="80" />
       </a>
     </td>
+    <td align="center">
+      <sub><b>ROS 2 Moveit 2 - Control a Robotic Arm</b> · Udemy</sub><br/>
+      <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-89bd21e3-af21-42f4-8a6b-c79ff9ea1e99.jpg?v=1775824061000">
+        <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-89bd21e3-af21-42f4-8a6b-c79ff9ea1e99.jpg?v=1775824061000" height="80" />
+      </a>
+    </td>
   </tr>
 </table>
 
