@@ -17,8 +17,6 @@
     &nbsp;
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="48" />
     &nbsp;
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matlab-Dark.svg" width="48" />
-    &nbsp;
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ROS-Dark.svg" width="48" />
     &nbsp;
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Arduino.svg" width="48" />
@@ -28,6 +26,8 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="48" />
     &nbsp;
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="48" />
+    &nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" width="48" />
     &nbsp;
   </p>
 
