@@ -1,7 +1,7 @@
 # Hi, I'm Valentin Massonnière — *TheVal*
 
-  **AI & Robotics Engineer** | **Data Scientist** · Apprentice at **Iceberg Data Lab**
-  **Efrei Paris** — Data Engineering & AI
+  **AI/Data & Robotics Engineer** Student** · Apprentice at **Iceberg Data Lab** and student at
+  **Efrei Paris**
 
   Passionate about building intelligent systems at the edge of robotics and AI.
   Long-term goal: a **PhD in Robotics & AI** in the space domain.
